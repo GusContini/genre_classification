@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chafund/GIT/genre_classification/mlruns/0/fc5f6b5b99264b628fde413398d8f9f7/artifacts
+end_time: 1710322783714
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc5f6b5b99264b628fde413398d8f9f7
+run_name: mercurial-goat-127
+run_uuid: fc5f6b5b99264b628fde413398d8f9f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710322781288
+status: 4
+tags: []
+user_id: chafund

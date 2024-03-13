@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chafund/GIT/genre_classification/mlruns/0/2ea7e69b7d134774a6ffd1ab863b0baa/artifacts
+end_time: 1710345983082
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ea7e69b7d134774a6ffd1ab863b0baa
+run_name: secretive-grub-806
+run_uuid: 2ea7e69b7d134774a6ffd1ab863b0baa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710345925397
+status: 3
+tags: []
+user_id: chafund

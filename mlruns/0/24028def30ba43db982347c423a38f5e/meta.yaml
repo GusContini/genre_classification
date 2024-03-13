@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chafund/GIT/genre_classification/mlruns/0/24028def30ba43db982347c423a38f5e/artifacts
+end_time: 1710323433707
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24028def30ba43db982347c423a38f5e
+run_name: fortunate-wolf-335
+run_uuid: 24028def30ba43db982347c423a38f5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710323432011
+status: 4
+tags: []
+user_id: chafund

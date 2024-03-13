@@ -1,0 +1,137 @@
+{
+    "os": "Linux-5.15.146.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.12.2",
+    "heartbeatAt": "2024-03-13T16:12:46.908634",
+    "startedAt": "2024-03-13T16:12:44.844215",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--file_url",
+        "https://github.com/udacity/nd0821-c2-build-model-workflow-exercises/blob/master/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/genres_mod.parquet?raw=true",
+        "--artifact_name",
+        "raw_data.parquet",
+        "--artifact_type",
+        "raw_data",
+        "--artifact_description",
+        "Data as downloaded"
+    ],
+    "state": "running",
+    "program": "/home/chafund/GIT/genre_classification/download/download_data.py",
+    "codePathLocal": "download_data.py",
+    "codePath": "download/download_data.py",
+    "git": {
+        "remote": "git@github.com:GusContini/genre_classification.git",
+        "commit": "a365f66c0b350d6687016db88e3e8635bb5625a3"
+    },
+    "email": "gcontini.torres@gmail.com",
+    "root": "/home/chafund/GIT/genre_classification",
+    "host": "GustavoPC",
+    "username": "chafund",
+    "executable": "/home/chafund/miniconda3/envs/mlflow-ff0ab1ff4d6d8b943502a3f8b79e11bdb1ab7f47/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 3193.9239999999995,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3193.924,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3193.924,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3193.924,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3193.924,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3193.924,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3193.924,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3193.924,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3193.924,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3193.924,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3193.924,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3193.924,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3193.924,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3193.924,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3193.924,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3193.924,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3193.924,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1006.853931427002,
+            "used": 15.62515640258789
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 7.432041168212891
+    }
+}

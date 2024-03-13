@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chafund/GIT/genre_classification/mlruns/0/30c068533a6445db9f6a9e158ccda263/artifacts
+end_time: 1710346486489
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30c068533a6445db9f6a9e158ccda263
+run_name: mercurial-cod-771
+run_uuid: 30c068533a6445db9f6a9e158ccda263
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710346435523
+status: 3
+tags: []
+user_id: chafund

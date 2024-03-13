@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chafund/GIT/genre_classification/mlruns/0/e15ecac132704258bd459c7194ffb97d/artifacts
+end_time: 1710346599604
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e15ecac132704258bd459c7194ffb97d
+run_name: treasured-hound-561
+run_uuid: e15ecac132704258bd459c7194ffb97d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710346573478
+status: 3
+tags: []
+user_id: chafund

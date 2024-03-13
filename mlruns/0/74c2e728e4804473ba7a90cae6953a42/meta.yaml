@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chafund/GIT/genre_classification/mlruns/0/74c2e728e4804473ba7a90cae6953a42/artifacts
+end_time: 1710346018616
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74c2e728e4804473ba7a90cae6953a42
+run_name: valuable-kit-179
+run_uuid: 74c2e728e4804473ba7a90cae6953a42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710345923851
+status: 4
+tags: []
+user_id: chafund
