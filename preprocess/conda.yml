@@ -3,8 +3,8 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - pandas=1.2.3
-  - pip=20.3.3
-  - pyarrow=2.0
+  - pandas=2.0.3
+  - pip=24.0
+  - pyarrow=15.0.0
   - pip:
-      - wandb==0.10.21
+      - wandb==0.16.3
