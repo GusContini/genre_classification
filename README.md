@@ -4,6 +4,6 @@ A complete ML model development pipeline that produces a trained Random Forest m
 ## Release 1.0.0 notes:
 Anyone can use this pipeline at version 1.0.0 with mlflow and w&b:
 commando: >.
-mlflow run -v 1.0.0 [URL of your Github repo]
+mlflow run -v 1.0.0 https://github.com/GusContini/genre_classification.git
 
-NOTE: Weights & Biases (https://wandb.ai/home) account is needed and it has to be connected with github account
+NOTE: Conda, MLflow are required. Also, Weights & Biases (https://wandb.ai/home) account is needed and it has to be connected with the github account.
