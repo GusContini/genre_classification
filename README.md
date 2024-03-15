@@ -6,6 +6,6 @@ Anyone can use this pipeline at version 1.0.0 with mlflow and w&b:
 
 command: >-
 
-mlflow run -v 1.0.0 https://github.com/GusContini/genre_classification.git
+`mlflow run -v 1.0.0 https://github.com/GusContini/genre_classification.git`
 
 NOTE: Conda, MLflow are required. Also, Weights & Biases (https://wandb.ai/home) account is needed and it has to be connected with the github account.
