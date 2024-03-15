@@ -6,4 +6,4 @@ Anyone can use this pipeline at version 1.0.0 with mlflow and w&b:
 commando: >.
 mlflow run -v 1.0.0 [URL of your Github repo]
 
-NOTE: Weights & Biases account is needed and it has to be connected with github account
+NOTE: Weights & Biases (https://wandb.ai/home) account is needed and it has to be connected with github account
